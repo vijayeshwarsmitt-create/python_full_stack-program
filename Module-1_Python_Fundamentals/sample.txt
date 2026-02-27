@@ -1,1 +1,3 @@
-
+This is a sample text file for testing file handling in Python.
+Python is fun!
+If you can read this, the file path resolution is working correctly.
