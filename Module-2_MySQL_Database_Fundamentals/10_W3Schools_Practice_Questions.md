@@ -17,7 +17,7 @@ This document contains a comprehensive set of practice questions based on the st
 10. Select the top 5 `Customers`.
 11. Select the first 10 `Products`.
 12. Select unique `Cities` from the `Customers` table.
-13. Select all `Orders` where the `ShipCountry` is 'USA'.
+13. Select all `Orders` where the `ShipName` is 'United Packages'.
 14. Select all `Customers` whose `CustomerID` starts with the letter 'A'.
 15. Select all `Products` with a price between 10 and 20.
 16. Select all `Orders` where the `OrderDate` is NULL.
